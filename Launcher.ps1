@@ -26,7 +26,7 @@ $localname = "MapleStory"
     Write-Output "Starting local process";
     # Write-Output "$endpoint $port $channel $username $password";
     # pause;
-    Start-Process "H:\OneDrive\Program Files\Locale.Emulator.2.4.1.0\LEProc.exe" -ArgumentList "-run E:\Gamania\MapleStory\$localname.exe $endpoint $port $channel $username $password"    
+    Start-Process "H:\OneDrive\Program Files\Locale.Emulator.2.4.1.0\LEProc.exe" -ArgumentList "-run `"E:\Gamania\MapleStory\$localname.exe`" $endpoint $port $channel $username $password"    
     Write-Output "MapleStory started";
     # $p = ''
     Start-Sleep -s 1
