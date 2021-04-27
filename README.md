@@ -8,7 +8,7 @@
 
 ### 准备工作
 
-1. 下载并安装地区模拟器 https://pooi.moe/Locale-Emulator/
+1. 下载并安装地区模拟器 https://github.com/xupefei/Locale-Emulator/releases
 2. 配置本地Powershell允许执行脚本
    1. 用管理员模式启动powershell
    2. 输入`Set-ExecutionPolicy Unrestricted`，回车
