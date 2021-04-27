@@ -44,4 +44,5 @@ Waiting for official process MapleStory.exe: 11 s
 
 ## 反馈
 
-请直接提交Issue，谢谢！
+有问题请直接提交Issue。<br />
+如果喜欢本项目请点击右上角的Star，非常感谢！
