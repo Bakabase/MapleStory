@@ -23,6 +23,7 @@
    1. Location Settings里选择Chinese（Traditional，Hong Kong SAR）；
    2. Timezone选择UTC+8:00
    3. Advanced Options选择Run as administrator，Fake language-relatived keys in Registry
+   4. 点击保存/Save，此时会自动运行一次冒险岛，关闭即可
 4. 将本项目的Launcher.ps1文件复制到本地，并且用任意文本编辑器打开它；
    1. 将$localname改为你的枫之谷exe文件名（默认是MapleStory，不要包含后缀.exe）；
    2. 修改Start-Process这一行右侧的Locale-Emulator地址和你的枫之谷exe文件地址
@@ -40,7 +41,8 @@ Waiting for official process MapleStory.exe: 10 s
 Waiting for official process MapleStory.exe: 11 s
 ```
 2. 用ie打开香港beanfun官网，登陆你的账号；
-3. 在beanfun官网启动枫之谷，干翻橘子吧！
+3. 在beanfun官网启动枫之谷，上面的黑色窗口会闪几行文字表示启动成功并且自动关闭；
+4. 干翻橘子吧！
 
 ## 反馈
 
